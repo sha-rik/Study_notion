@@ -11,6 +11,11 @@
 # production
 /build
 
+#folders
+/StudyNotion 2/
+/server/Backend_testing_7_code/
+/server/To_copy_code_love_babbar/
+
 # misc
 .DS_Store
 .env.local
@@ -21,3 +26,4 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
